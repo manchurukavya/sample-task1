@@ -1,0 +1,29 @@
+glass_of_water="5"
+print("I drank", glass_of_water, "glasses of water today.")
+
+glass_of_water=3
+glass_of_water=glass_of_water + 1
+print(glass_of_water)
+
+men_stepped_on_the_moon="kiran"
+print(men_stepped_on_the_moon)
+
+my_reason_for_coding="python"
+print(my_reason_for_coding)
+
+global_mean_sea_level_2018=21
+global_mean_sea_level_2018=20
+print(global_mean_sea_level_2018)
+
+staying_alive="True" or "False"
+print(staying_alive)
+
+print("Today I drank", 3, "glasses of water and walked", 5000, "steps.")
+
+my_text="Hello World!"
+print(my_text)
+
+print("Hello World!")
+
+print(5*2**10)
+

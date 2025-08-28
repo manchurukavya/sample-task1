@@ -1,0 +1,56 @@
+x = 10
+y = 5
+temp = x
+x = y
+y = temp
+print("x =", x)
+print("y =", y)
+
+a = 3
+b = 855
+c = -42
+print(type(a), type(b), type(c))
+
+x = 2.564728
+y = -10.5
+z = 0.0
+print(type(x), type(y), type(z))
+
+m = 2 + 3j
+n = 6j
+print(type(m), type(n))
+print("Real part of m:", m.real)
+print("Imaginary part of m:", m.imag)
+
+x = 6
+y = 2
+print(x ** y)
+print(x // y)
+
+a = 4
+b = 11
+print(a | b) 
+print(a >> 2)
+
+y = 10
+x = y + 2
+print(x)
+
+print(2 * 3 ** 3 * 4)
+
+print(10 - 4 * 2)
+
+print(-18 // 4)
+
+x = 10
+y = 50
+if x ** 2 > 100 and y < 100:
+    print(x, y)
+
+x = 100
+y = 50
+print(x and y)
+
+print( type(range(5)))
+
+print(type(10))
